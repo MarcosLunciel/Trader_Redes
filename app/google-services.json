@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443298919686",
+    "firebase_url": "https://trader-d2243.firebaseio.com",
+    "project_id": "trader-d2243",
+    "storage_bucket": "trader-d2243.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443298919686:android:c21671f489e607c7",
+        "android_client_info": {
+          "package_name": "com.example.pc.trader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443298919686-kasrn05qr6eics768jadp6tt9fqv312i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.trader",
+            "certificate_hash": "a6ef5003ba345c9bb60759c3c69df97958a43eab"
+          }
+        },
+        {
+          "client_id": "443298919686-p0aqiksins1sukbb9gbnj03ni4og72ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQ540JXPnIq1Fvqi2qhxkNCnG8wyocv0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443298919686-p0aqiksins1sukbb9gbnj03ni4og72ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

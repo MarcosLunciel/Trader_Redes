@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trader</string>
+    <string name="Aberto">Trader</string>
+    <string name="Fechado">Trader</string>
+    <string name="teste_gps">longitude</string>
+    <string name="genderView">Gênero:</string>
+    <string name="nameView">Nome:</string>
+    <string name="locationView">Cidade:</string>
+    <string name="nickView">Nickname:</string>
+</resources>
